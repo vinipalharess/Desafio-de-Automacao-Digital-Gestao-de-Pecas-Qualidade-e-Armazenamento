@@ -1,4 +1,4 @@
-# Controle Digital de Peças
+# Desafio de Automação Digital Gestão de Peças, Qualidade e Armazenamento
 
 Este protótipo em simula o trabalho diário de um inspetor na linha de montagem. O programa abre um menu simples, onde dá para cadastrar cada peça com ID, peso, cor e comprimento. A lógica confere se a peça passa nos critérios de qualidade (peso entre 95 g e 105 g, cor azul ou verde, comprimento entre 10 cm e 20 cm). Peças aprovadas entram na fila de armazenamento. 
 
